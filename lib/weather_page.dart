@@ -13,7 +13,7 @@ class WeatherPage extends StatefulWidget {
 }
 
 class _WeatherPageState extends State<WeatherPage> {
-  final openWeatherApiKey = "a02e8f8c7c64021ad94d354154f728af";
+  final openWeatherApiKey = "itsasecret";
 
   bool isLoading = true;
   String cityName = "";
